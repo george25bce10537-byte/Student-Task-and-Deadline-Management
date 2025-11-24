@@ -1,0 +1,47 @@
+1. Functional Requirements
+  There must be a minimum of three important functional modules.
+
+  Structure: Your project must have a clear input/output structure and a logical workflow for user interaction.
+
+
+  CRUD operations, user management, data input and processing, analytics and reporting, machine learning prediction, and simulation are a few examples.
+
+  2. Non-Functional Requirements
+  It is necessary to specify and implement at least four (4) of the following non-functional requirements:
+
+  Performance 
+
+  Security 
+
+  Usability 
+
+  Reliability 
+
+  Scalability 
+
+  Sustainability 
+
+  A method for managing mistakes 
+
+  Monitoring or observing 
+
+  Resource efficiency
+
+
+3. Technology Expectations
+
+  Code Structure: If your project requires coding, you must have at least five to ten useful modules, classes, or files in addition to an appropriate folder structure.
+
+  Top Techniques: You must demonstrate:
+
+  suitable architectural design and modular implementation.
+
+
+  correctly applying concepts from the subject (data structures, models, algorithms, etc.).
+
+  Validation and error management.
+
+
+  Version Control: You must use Git.
+
+  Testing (unit tests or validation tests) when necessary
